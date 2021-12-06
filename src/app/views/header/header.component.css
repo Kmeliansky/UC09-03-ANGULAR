@@ -1,0 +1,22 @@
+.mat-toolbar-row{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+.logo img{
+    height: 170px;
+}
+
+.logo{
+    font-family: 'Carter One', cursive;
+    color: rgb(255, 255, 255);
+}
+
+.container-fluid{
+    background-color: rgb(255, 255, 255);
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
